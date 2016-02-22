@@ -8,6 +8,13 @@
   * Let another type deal with it
 * Defer (in time; be asynchronous)
 
+* Choosing Libraries / Frameworks
+  * Suitability
+  * License
+  * Project Activity
+  * Popularity
+  * Online Resources
+
 ## Working environment
 
 * Breaks
@@ -36,7 +43,7 @@
 
 ### Functional Programming
 
-* Don't mix computations from side-effects
+* Separate computations from side-effects
  * Isolate side-effects
 * Favor immutability
  * Immutable collections
