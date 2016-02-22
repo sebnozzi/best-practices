@@ -5,23 +5,29 @@
 * Clean over confusing
 * Simple over complex
 * Explicit over implicit
-* Defined over open
 * Small over big
 * Homogeneous over heterogeneous
   * One over many (responsibilities)
 * Less over more
-* Direct over ambiguous
+* Precise over ambiguous
 * Fast over slow (tests, feedback)
+* Sooner over later (failing)
 * Automatic over manual
 
 ## Clean Code
 
 * Code duplication
+* Tight coupling
 * Dependency injection
   * Be specific on your needs
-* Packaging (structure of codebase)
+* Leaking Abstractions
 
-* Organise codebase into modules
+* Working with legacy-code
+
+## Codebase organisation
+
+* Packaging (structure of codebase)
+* Organize into modules
   * Better separation of concerns
   * Better parallelization in team
   * Better compilation / build times
@@ -33,6 +39,8 @@
 * Meaningful names
 * Avoid long invocation chains
   * Describe intermediate steps
+* Avoid primitive types
+  * Create domain types 
 
 ### Comments
   * Consider what can change
@@ -83,6 +91,11 @@
 * Onion / Hexagon
 * Separate the core from the drivers
 * Domains
+* Separate core from UI
+* Proper UI
+  * Generic, reusable, UI components
+  * UI Controllers
+  * Adapters
 
 ### Working in Teams
 
@@ -120,6 +133,7 @@
   * Test typical cases
   * Make them maintainable
 * Unit-tests: DO NOT hit the DB!
+* Brittle tests
 
 ## Sharpening the Saw
 
