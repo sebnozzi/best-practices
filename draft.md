@@ -2,6 +2,12 @@
 
 * Working with legacy-code
 
+* De-couple
+* Defer (in responsibility)
+  * Let another part of the code deal with it
+  * Let another type deal with it
+* Defer (in time; be asynchronous)
+
 ## Codebase organisation
 
 * Packaging (structure of codebase)
