@@ -11,3 +11,13 @@
 * Code smell: lots of private functions
 * Code smell: too large / too much
 * Don't mix levels of abstraction
+
+### Communicating Meaning
+
+* Short methods / functions
+* Short classes / modules / files
+* Meaningful names
+* Avoid long invocation chains
+  * Describe intermediate steps
+* Avoid primitive types
+  * Create domain types 
