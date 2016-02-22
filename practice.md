@@ -12,3 +12,11 @@
 * Focus on learning, not on finishing
 * Meetups
 * Pairing
+* Contribute to projects
+* Hobby projects
+* Read code
+* Learn
+* Solve problems
+* Teach
+* Ask questions
+* Answer questions
