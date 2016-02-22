@@ -2,9 +2,9 @@
 
 * [Introduction](README.md)
 * [Draft](draft.md)
-* [Testing](testing.md)
+* [General Principles](general_principles.md)
 * [Comments](comments.md)
 * [Concurrency](concurrency.md)
+* [Testing](testing.md)
 * [Practice](practice.md)
-* [General Principles](general_principles.md)
 
