@@ -2,6 +2,6 @@
 
 * [Introduction](README.md)
 * [Draft](draft.md)
-* Testing
+* [Testing](testing.md)
 * Comments
 
