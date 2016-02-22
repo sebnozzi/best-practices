@@ -7,6 +7,5 @@
 * [Concurrency](concurrency.md)
 * [Testing](testing.md)
 * [Practice](practice.md)
-
-* [Draft](draft.md)
+* [Inbox](inbox.md)
 
