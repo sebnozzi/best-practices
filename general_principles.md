@@ -3,6 +3,9 @@
 * Clean over confusing
 * Simple over complex
 * Explicit over implicit
+* Flexible over rigid
+* Robust over brittle (tests)
+* Deterministic over non-deterministic
 * Small over big
 * Homogeneous over heterogeneous
   * One over many (responsibilities)
