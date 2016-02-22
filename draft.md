@@ -1,19 +1,5 @@
 # Draft
 
-## General Principles
-
-* Clean over confusing
-* Simple over complex
-* Explicit over implicit
-* Small over big
-* Homogeneous over heterogeneous
-  * One over many (responsibilities)
-* Less over more
-* Precise over ambiguous
-* Fast over slow (tests, feedback)
-* Sooner over later (failing)
-* Automatic over manual
-
 ## Clean Code
 
 * Code duplication
@@ -21,6 +7,12 @@
 * Dependency injection
   * Be specific on your needs
 * Leaking Abstractions
+* Don't mix responsibilities
+ * Per function
+ * Per class
+* Code smell: lots of private functions
+* Code smell: too large / too much
+* Don't mix levels of abstraction
 
 * Working with legacy-code
 
@@ -41,19 +33,7 @@
   * Describe intermediate steps
 * Avoid primitive types
   * Create domain types 
-
-### Responsibilities
-
-* Don't mix responsibilities
- * Per function
- * Per class
-* Code smell: lots of private functions
-* Code smell: too large / too much
-
-### Levels of Abstraction
-
-* Don't mix levels of abstraction
- 
+  * 
 ### Functional Programming
 
 * Don't mix computations from side-effects
