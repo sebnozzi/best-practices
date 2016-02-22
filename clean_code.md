@@ -18,6 +18,7 @@
   * Premature generalization
   * Unneeded functionality
   * Unneeded complexity
+* DRY
 * Metric: lines of code
   * Lines of code SPENT
 
