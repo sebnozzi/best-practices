@@ -13,6 +13,13 @@
 * Don't mix levels of abstraction
 * Single Responsibility Principle
 * Principle of least power
+* YAGNI
+  * Premature optimization
+  * Premature generalization
+  * Unneeded functionality
+  * Unneeded complexity
+* Metric: lines of code
+  * Lines of code SPENT
 
 ### Communicating Meaning
 
