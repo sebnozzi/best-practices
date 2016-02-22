@@ -2,6 +2,10 @@
 
 * Working with legacy-code
 
+* DRY
+* NIH-syndrome
+* Favor composition over inheritance
+
 * De-couple
 * Defer (in responsibility)
   * Let another part of the code deal with it
