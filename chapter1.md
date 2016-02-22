@@ -16,6 +16,16 @@
 
 ## Clean Code
 
+* Code duplication
+* Dependency injection
+  * Be specific on your needs
+* Packaging (structure of codebase)
+
+* Organise codebase into modules
+  * Better separation of concerns
+  * Better parallelization in team
+  * Better compilation / build times
+
 ### Communicating Meaning
 
 * Short methods / functions
@@ -51,12 +61,28 @@
  * Immutable collections
  * Immutable DTOs
  * Pure functions
- * Don't throw exceptions
+ * Don't throw exceptions, return values
 
 ### Others
 
 * Avoid null
 * Too many parameters
+
+### Concurrency
+
+* Avoid primitive concurrency
+* Avoid polling
+* Avoid race-conditions
+* Be reactive
+* Futures / Promises
+* Actors
+* Distributed computing
+
+### Architecture
+
+* Onion / Hexagon
+* Separate the core from the drivers
+* Domains
 
 ### Working in Teams
 
@@ -80,7 +106,7 @@
 * Monitoring
 * Security
 
-## Clean Tests
+## Testing
 
 * Aim at max ROI / min TCO
 * Code-coverage can be misleading
@@ -88,17 +114,25 @@
 * Maintainability is king
 * Isolate implementation details
 * Mocking / stubbing
-
-
-
-* Don't hit the DB!
+* Proper UI testing
+  * Avoid
+  * Test wiring
+  * Test typical cases
+  * Make them maintainable
+* Unit-tests: DO NOT hit the DB!
 
 ## Sharpening the Saw
 
-* Practice
+* Examples from other disciplines
+  * Musicians
+  * Scientists
+  * Athletes
+  * Actors
+* Practice!
 * Katas
 * Coding Dojos
 * Code Retreats
+* Focus on learning, not on finishing
 * Meetups
 * Pairing
 
