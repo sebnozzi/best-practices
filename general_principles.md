@@ -3,6 +3,8 @@
 * Clean over confusing
 * Simple over complex
 * Explicit over implicit
+* Coupling (loose / tight)
+* Cohesion (similar things go together)
 * Flexible over rigid
 * Robust over brittle (tests)
 * Deterministic over non-deterministic
