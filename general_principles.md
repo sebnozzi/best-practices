@@ -17,3 +17,4 @@
 * Sooner over later (failing)
 * Automatic over manual
 * Continuous Improvement
+* Don't repeat yourself
