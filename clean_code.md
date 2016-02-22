@@ -12,6 +12,7 @@
 * Code smell: too large / too much
 * Don't mix levels of abstraction
 * Single Responsibility Principle
+* Principle of least power
 
 ### Communicating Meaning
 
