@@ -8,6 +8,17 @@
   * Let another type deal with it
 * Defer (in time; be asynchronous)
 
+## Working environment
+
+* Breaks
+* Get enough sleep
+* Productivity curve
+* Pomodoro
+* Interruptions
+* Focus
+* Meetings
+* The daily stand-up.
+
 ## Codebase organisation
 
 * Packaging (structure of codebase)
