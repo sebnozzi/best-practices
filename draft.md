@@ -80,6 +80,7 @@
 * Deployment strategies
 * Upgrade strategies
 
+* Schema migrations
 * Data migrations
 
 * Estimation strategies
