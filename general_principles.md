@@ -11,3 +11,4 @@
 * Fast over slow (tests, feedback)
 * Sooner over later (failing)
 * Automatic over manual
+* Continuous Improvement
