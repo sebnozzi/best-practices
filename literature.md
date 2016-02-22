@@ -1,5 +1,5 @@
 # Literature
 
-* Clean Code
-* Clean Coder
+* Clean Code - by Robert C. Martin
+* Clean Coder - by Robert C. Martin
 * 
