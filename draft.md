@@ -10,16 +10,6 @@
   * Better parallelization in team
   * Better compilation / build times
 
-### Communicating Meaning
-
-* Short methods / functions
-* Short classes / modules / files
-* Meaningful names
-* Avoid long invocation chains
-  * Describe intermediate steps
-* Avoid primitive types
-  * Create domain types 
-  * 
 ### Functional Programming
 
 * Don't mix computations from side-effects
