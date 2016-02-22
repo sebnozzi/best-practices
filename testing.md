@@ -13,3 +13,6 @@
   * Make them maintainable
 * Unit-tests: DO NOT hit the DB!
 * Brittle tests
+* Testing pyramid
+* Cost of tests
+* Test kinds
