@@ -11,6 +11,7 @@
 * Code smell: lots of private functions
 * Code smell: too large / too much
 * Don't mix levels of abstraction
+* Single Responsibility Principle
 
 ### Communicating Meaning
 
