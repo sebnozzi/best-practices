@@ -1,5 +1,8 @@
 # Software Development Best Practices
 
 
+This will be a book collecting best-practices in software development.
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+It will range from basic code-syntax, going through clean-code, architectural questions, up to deployment, monitoring, maintenance.
+
+This is a work in progress.
