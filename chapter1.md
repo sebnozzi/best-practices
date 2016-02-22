@@ -1,3 +1,24 @@
-# First Chapter
+# Draft
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+## Clean Code
+
+* Short methods / functions
+* Short classes / modules / files
+* Meaningful names
+* Avoid long invocation chains
+* Convert comments into code
+* Don't mix responsibilities
+ * Per function
+ * Per class
+* Don't miss levels of abstraction
+* Maintainable comments
+* 
+
+## Clean Tests
+
+* Refactor often!
+* Isolate implementation details
+* 
+* 
+
+
