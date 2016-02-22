@@ -42,7 +42,6 @@
 * Avoid primitive types
   * Create domain types 
 
-
 ### Responsibilities
 
 * Don't mix responsibilities
