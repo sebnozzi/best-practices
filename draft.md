@@ -43,6 +43,7 @@
  * Immutable DTOs
  * Pure functions
  * Don't throw exceptions, return values
+* Encapsulate null
 
 ### Others
 
