@@ -19,6 +19,13 @@
 * Meetings
 * The daily stand-up.
 
+## Project management
+
+* Agile
+* Scrum
+* Kanban
+* Ticketing system
+
 ## Codebase organisation
 
 * Packaging (structure of codebase)
