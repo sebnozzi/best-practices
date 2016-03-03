@@ -1,7 +1,29 @@
 # Software Development Best Practices
 
-This will be a book collecting best-practices in software development.
+This is a catalogue best-practices in Software Development.
 
-It will range from basic code-syntax, going through clean-code, architectural questions, up to deployment, monitoring, maintenance.
+Work in progress.
 
-This is a work in progress.
+## Clean Code
+
+* Naming
+* OOD
+  * SOLID Principles
+
+## Concurrency
+
+* Reactive Programming
+  * Promises
+  * Actor Model
+
+## Testing
+
+* TDD
+* Clean Tests
+* UI Testing
+
+## Practicing
+
+* Katas
+* Coding Dojos
+* Code Retreats
