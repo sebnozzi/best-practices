@@ -78,11 +78,17 @@
 * Commit Hooks
 * Continuous Integration
 * Conventions for git comments
-* Managing branches (e.g. git flow)
+* Managing branches
+  * gitflow
+  * pull requests
+
+* Continuous integration
 
 * Versioning (e.g. semantic versioning)
 * Deployment strategies
 * Upgrade strategies
+
+* Release management
 
 * Schema migrations
 * Data migrations
